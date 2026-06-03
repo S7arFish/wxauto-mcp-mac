@@ -1,2 +1,0 @@
-[console_scripts]
-wxauto-mcp-macos = wxauto_mcp.server:main
